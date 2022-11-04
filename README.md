@@ -132,7 +132,7 @@ We initially started learning OpenCV and Python by writing basic codes and study
 
 
 
-
+Bai tham khao
 
 
 
